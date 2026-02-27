@@ -1,0 +1,6 @@
+name = "CompBayesRegistry"
+uuid = "c2cbabd0-f95d-467b-bdda-e7a1cfc8d694"
+repo = "https://github.com/compbayes/CompBayesRegistry.git"
+description = "Private registry for Computational Bayes group"
+
+[packages]
