@@ -1,0 +1,3 @@
+name = "Utils"
+uuid = "a6a4a4df-ba9f-45e9-bafc-bec3296762b9"
+repo = "git@github.com:compbayes/Utils.jl.git"

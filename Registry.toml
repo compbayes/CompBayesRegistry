@@ -4,3 +4,4 @@ repo = "https://github.com/compbayes/CompBayesRegistry.git"
 description = "Private registry for Computational Bayes group"
 
 [packages]
+a6a4a4df-ba9f-45e9-bafc-bec3296762b9 = { name = "Utils", path = "U/Utils" }
