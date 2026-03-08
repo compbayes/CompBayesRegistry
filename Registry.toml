@@ -5,4 +5,5 @@ description = "Private registry for Computational Bayes group"
 
 [packages]
 20aa821e-5b1c-4f19-affd-90757a4fca77 = { name = "TimeSeriesUtils", path = "T/TimeSeriesUtils" }
+59b8652b-d2f9-4a66-a653-7a5f669fef35 = { name = "LogisticBetaDistribution", path = "L/LogisticBetaDistribution" }
 a6a4a4df-ba9f-45e9-bafc-bec3296762b9 = { name = "Utils", path = "U/Utils" }

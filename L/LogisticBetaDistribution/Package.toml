@@ -1,0 +1,3 @@
+name = "LogisticBetaDistribution"
+uuid = "59b8652b-d2f9-4a66-a653-7a5f669fef35"
+repo = "git@github.com:compbayes/LogisticBetaDistribution.jl.git"
