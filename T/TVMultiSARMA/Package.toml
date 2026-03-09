@@ -1,0 +1,3 @@
+name = "TVMultiSARMA"
+uuid = "c829f553-22ac-4b19-a1dc-cc178927e19e"
+repo = "https://github.com/compbayes/TvMultiSARMA.jl.git"
