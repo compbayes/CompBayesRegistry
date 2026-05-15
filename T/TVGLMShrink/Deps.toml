@@ -17,3 +17,7 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 SMCsamplers = "2328efba-24c2-4a10-a32f-a74f69d05fca"
 Utils = "a6a4a4df-ba9f-45e9-bafc-bec3296762b9"
+
+["0.2-0"]
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+StableDistributions = "3756410d-ab6e-41a2-9897-9aa267a7ef31"
