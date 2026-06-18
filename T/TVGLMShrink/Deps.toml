@@ -21,3 +21,6 @@ Utils = "a6a4a4df-ba9f-45e9-bafc-bec3296762b9"
 ["0.2-0"]
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 StableDistributions = "3756410d-ab6e-41a2-9897-9aa267a7ef31"
+
+["0.3.4-0"]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
