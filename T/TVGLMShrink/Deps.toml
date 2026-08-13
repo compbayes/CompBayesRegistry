@@ -28,3 +28,6 @@ JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 ["0.4-0"]
 GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
+["0.4.3-0"]
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
