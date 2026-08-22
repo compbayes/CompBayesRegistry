@@ -37,3 +37,6 @@ Roots = "3"
 
 ["0.4.3-0"]
 LocalRegistry = "0.5.7-0.5"
+
+["0.5.2-0"]
+KernelDensity = "0.6.12-0.6"

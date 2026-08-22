@@ -31,3 +31,6 @@ Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 
 ["0.4.3-0"]
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
+
+["0.5.2-0"]
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
